@@ -55,12 +55,33 @@ p {
     justify-content: space-around;
 }
 
-.right {
- 
-}
-
 .button1 {
     display: flex;
     background-color: #3882F6;
      color: white;
+}
+
+
+.randominfo {
+    text-align: center;
+    margin-bottom: 32px;
+    padding: 16px;
+    font-weight: 900px;
+    font: 36px;
+    color: #1f2937;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+
+.info {
+    width: 250px;
+}
+
+p {
+    color: black;
 }
